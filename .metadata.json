@@ -1,0 +1,18 @@
+[
+  {
+    "package": "aphid",
+    "oncran": true
+  },
+  {
+    "package": "dclust",
+    "oncran": true
+  },
+  {
+    "package": "insect",
+    "oncran": true
+  },
+  {
+    "package": "kmer",
+    "oncran": true
+  }
+]
