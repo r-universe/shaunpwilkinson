@@ -8,6 +8,11 @@
 	url = https://github.com/shaunpwilkinson/aphid
 	shallow = true
 	registered = true
+[submodule "dclust"]
+	path = dclust
+	url = https://github.com/shaunpwilkinson/dclust
+	shallow = true
+	registered = true
 [submodule "insect"]
 	path = insect
 	url = https://github.com/shaunpwilkinson/insect

@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "dclust",
+    "oncran": true
+  },
+  {
     "package": "insect",
     "oncran": true
   },
