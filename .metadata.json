@@ -8,11 +8,11 @@
     "oncran": true
   },
   {
-    "package": "insect",
+    "package": "kmer",
     "oncran": true
   },
   {
-    "package": "kmer",
+    "package": "insect",
     "oncran": true
   }
 ]
