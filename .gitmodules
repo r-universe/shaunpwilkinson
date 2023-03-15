@@ -13,13 +13,13 @@
 	url = https://github.com/shaunpwilkinson/dclust
 	shallow = true
 	registered = true
-[submodule "kmer"]
-	path = kmer
-	url = https://github.com/shaunpwilkinson/kmer
-	shallow = true
-	registered = true
 [submodule "insect"]
 	path = insect
 	url = https://github.com/shaunpwilkinson/insect
+	shallow = true
+	registered = true
+[submodule "kmer"]
+	path = kmer
+	url = https://github.com/shaunpwilkinson/kmer
 	shallow = true
 	registered = true
