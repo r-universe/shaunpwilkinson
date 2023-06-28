@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "aphid"]
 	path = aphid
 	url = https://github.com/shaunpwilkinson/aphid
-	shallow = true
-	registered = true
 [submodule "dclust"]
 	path = dclust
 	url = https://github.com/shaunpwilkinson/dclust
-	shallow = true
-	registered = true
 [submodule "insect"]
 	path = insect
 	url = https://github.com/shaunpwilkinson/insect
-	shallow = true
-	registered = true
 [submodule "kmer"]
 	path = kmer
 	url = https://github.com/shaunpwilkinson/kmer
-	shallow = true
-	registered = true
